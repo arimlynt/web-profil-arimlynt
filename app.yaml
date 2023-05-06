@@ -1,0 +1,12 @@
+runtime: python38
+
+handlers:
+- url: /css
+  static_dir: css
+
+- url: /img
+  static_dir: img
+
+- url: /.*
+  static_files: index.html
+  upload: index.html

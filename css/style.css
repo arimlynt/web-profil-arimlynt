@@ -1,0 +1,46 @@
+/* Style untuk header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+header h1 {
+    margin: 0;
+}
+
+/* Style untuk navigasi */
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Style untuk gambar */
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px;
+    display: block;
+}
+
+/* Style untuk section */
+section {
+    margin: 20px;
+}
+
+/* Style untuk footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
